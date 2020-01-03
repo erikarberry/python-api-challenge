@@ -2,19 +2,16 @@
  "cells": [
   {
    "cell_type": "code",
-   "execution_count": 1,
-   "metadata": {},
-   "outputs": [],
-   "source": [
-    "api_key = \"8f31182b3cb7d0211d9c16531b167b68\""
-   ]
-  },
-  {
-   "cell_type": "code",
    "execution_count": null,
    "metadata": {},
    "outputs": [],
-   "source": []
+   "source": [
+    "# OpenWeatherMap API Key\n",
+    "weather_api_key = \"8f31182b3cb7d0211d9c16531b167b68\"\n",
+    "\n",
+    "# Google API Key\n",
+    "g_key = \"YOUR KEY HERE!\"\n"
+   ]
   }
  ],
  "metadata": {
