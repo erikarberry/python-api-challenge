@@ -1,0 +1,12 @@
+
+# Created by https://www.gitignore.io/api/api_keys.py
+# Edit at https://www.gitignore.io/?templates=api_keys.py
+
+#!! ERROR: api_keys.py is undefined. Use list command to see defined gitignore types !!#
+
+# End of https://www.gitignore.io/api/api_keys.py
+
+.ipynb_checkpoints/
+__pycache__/
+api_keys.py
+.DS_Store
